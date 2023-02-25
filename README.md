@@ -165,4 +165,4 @@ eject /dev/sdX
 ## Booting the Raspberry PI
 Congratulations! you have made it that far.
 
-Now all you need to insert the SD card to the raspberry pi and boot it up.
+Now all you need is to insert the SD card to the raspberry pi and boot it up.
